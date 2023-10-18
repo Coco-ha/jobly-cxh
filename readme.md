@@ -1,4 +1,4 @@
-# Jobly Backend
+# Jobly 
 
 Jobly is a RESTful API job application platform. Built to exercise implementation of authentication/authorization features. It was created with a React frontend and Express backend.
 
